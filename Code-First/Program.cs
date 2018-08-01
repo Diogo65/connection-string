@@ -12,6 +12,9 @@ namespace Code_First
         {
             //intall EntityFramework
 
+            //Voltando o banco de dados em um determinado ponto:
+            //Update - DataBase –target “CriacaoBanco”
+
             //Cadastra os clientes
             var db = new Contexto();
             db.Cliente.Add(new Cliente() { Nome = "Carlos dos Santos" });
