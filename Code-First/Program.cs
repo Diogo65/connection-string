@@ -12,6 +12,9 @@ namespace Code_First
         {
             //intall EntityFramework
 
+            //PostgreSQL no Entity Framework
+            //install EntityFramework.Npgsql
+
             //Voltando o banco de dados em um determinado ponto:
             //Update - DataBase –target “CriacaoBanco”
 
