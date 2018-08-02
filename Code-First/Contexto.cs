@@ -16,7 +16,7 @@ namespace Code_First
         //    Database.SetInitializer(new MigrateDatabaseToLatestVersion<Contexto, Configuration>());
         //}
 
-        public Contexto() : base("name=PgContexto")
+        public Contexto() : base("name=TechCliente")
         {
         }
 
